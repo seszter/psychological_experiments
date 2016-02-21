@@ -1,1 +1,1 @@
-# psychological_experiments
+Scripts for running psychological experiments
